@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicola</h1>
 <h3 align="center">I'm learing how to code</h3>
 
-- I’m currently learning **Javascript**
+- I’m currently learning **nothing** :)
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
